@@ -1,0 +1,122 @@
+body{  
+    margin:0 5% ;
+    font-family: 'Poppins', sans-serif;
+    background-color:;
+    
+
+     }
+.sec1-header{ 
+    display:flex;
+    margin:5% ;
+   box-sizing: border-box;
+    padding: 5%;
+    margin-bottom: 0;
+    width:100%;
+    
+   
+    
+    }
+    .header-class{ 
+        font-size: 60px;
+        font-weight: 900;
+        text-align: justify;
+    }
+    span{
+        color:orange;
+    }
+.sec1-div1{ 
+    width:50%;
+    
+}
+.link-button{ 
+    text-decoration: none;
+    font-weight: 900;
+    background-image: linear-gradient(gold,orange,red);
+    padding:10px 40px;
+    border-radius: 20px;
+} .div-clear{
+     clear:both;
+}
+
+.section-2{ 
+    background-image: url('images/background.jpg');
+    background-repeat: cover;
+    width:100%;
+    padding-bottom: 0;
+    box-sizing: border-box;
+}
+.sec2-div2{ 
+    padding-top: 10%;
+    margin-top: 0;
+}
+.hash-tag{
+    color:red;
+    font-family: italic;
+}
+.section-three{
+    box-sizing: border-box;
+    margin-bottom: 0;
+     margin:1% ;
+     padding:4%;
+
+}
+.my-recipe{ 
+    text-align: center;
+}
+
+.flexible-container{
+    display:flex;
+    
+    width:100%;
+}
+h2{
+    font-size: medium;
+    padding-top: 0;
+    margin-top: 0;
+}
+.recipe-img{
+    border-radius: 20px;
+    width:100%;
+}
+.recipe-div{
+    background-color:white;
+    padding: 3%;
+    
+    border-radius: 20px;
+    text-align: justify;
+    
+    box-shadow: 2px 0px 5px grey;
+    width:30%;
+    margin:3%;
+}
+.order-button{
+     background-color: green;
+     padding:10px 20px;
+     text-decoration: none;
+    font-weight: 900;
+    box-shadow: 7px 7px   blue;
+    color:white;
+    margin-left: 50px;
+}
+.fourth-section{
+    display: flex;
+    width:100%;
+    border:2px;
+    box-shadow:2px 0px 5px grey ;
+    margin-right:10%;
+    background-color: white;
+    border-radius: 20px;    
+box-sizing: border-box;
+}
+.media{
+padding-left: 15%;
+text-align: center;
+    
+}
+.footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
